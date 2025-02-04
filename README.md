@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fpato-dancando-ddFkZk&psig=AOvVaw03dWgrgjTYQo7OHrhRGSw4&ust=1738751314518000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODA68XnqYsDFQAAAAAdAAAAABA_" alt="Goose Dancing GIF" width="200px" height="200px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJmdGNmMXZ2bXQ3Ymp2bG9hb2lhdnNlYzYwZXBydHltaDR1c2tmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wOCLY01hNnpmNIxniK/giphy.gif" alt="Goose Dancing GIF" width="200px" height="200px">
 </p>
 
 <h1 align="center">Gansos Mansos Website 🪿</h1>
