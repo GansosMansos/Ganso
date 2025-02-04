@@ -5,13 +5,13 @@
 <h1 align="center">Gansos Mansos Website 🪿</h1>
 
 <p align="center">
-Esta és la pàgina para promocionar nuestra empresa para el trabajo de sintesi, queremos crear nuestro comercio web
+Esta és la pàgina para promocionar nuestra empresa para el trabajo de sintesi, queremos crear nuestro comercio web. Tambien somos la competencia de Patos Patricio.
 </p>
 <p align="center">
-<b>Imperio In Progress</b>
+<b>Gansos Mansos🇦🇱</b>
 </p>
 
 
 <p align="center">
-    <img src="https://www.gifsanimados.org/data/media/90/fuego-imagen-animada-0419.gif" alt="Fuego" width="100%" height="100"><br>
+    <img src="https://media.giphy.com/media/JNyScDOQLHTbDyeQpA/giphy.gif?cid=790b7611x77tlglrqnk2es7zistxy7beap0c3w59ktyxe199&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Lo que será patos patricio" width="200px" height="200px"><br>
 </p>
